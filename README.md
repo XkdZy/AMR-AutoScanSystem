@@ -18,7 +18,6 @@
 ## 实验结果
 + AGV初始交互位置<br>
 ![image](https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/Ori.jpg)
-
 + AGV引导到目标位置采集RGBD数据<br>
 <img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/1.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/2.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/3.jpg" width="180" height="105"/>
 + RGBD对应点云<br>
@@ -28,4 +27,4 @@
 + 分割后点云<br>
 ![image](https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/target_point_cloud.jpg)
 + 分割点云对应红外测量场<br>
-![image](https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/infrared_measure _field.jpg)
+![image](https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/infrared_measure_field.jpg)
