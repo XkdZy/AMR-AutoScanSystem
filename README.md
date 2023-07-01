@@ -17,6 +17,6 @@
 
 ## 实验结果
 + 原始数据<br>
-<img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/1.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/2.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/1.jpg" width="180" height="105"/>
+<img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/1.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/2.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/3.jpg" width="180" height="105"/>
 + 2D指导3D分割结果<br>
-<img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/1.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/2.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/1.jpg" width="180" height="105"/>
+<img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/1SL.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/2SL.jpg" width="180" height="105"><img src="https://github.com/XkdZy/AMR-AutoScanSystem/blob/main/result/3SL.jpg" width="180" height="105"/>
